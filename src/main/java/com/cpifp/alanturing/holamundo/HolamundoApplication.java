@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HolamundoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HolamundoApplication.class, args);
+		SpringApplication.run(HolamundoApplication.class, args
 	}
 
 }
